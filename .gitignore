@@ -5,6 +5,9 @@
 *.PrjPcb.Zip
 *.LOG
 *.SchDocPreview
+*.PcbLib.Zip
+*.SchLib.Zip
+*.IntLib
 
 # Ignore certain files from "New code2025" branch
 stim300-driver
