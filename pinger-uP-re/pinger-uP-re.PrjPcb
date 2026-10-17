@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JFWNWOUI
 
 [Document2]
-DocumentPath=pwr-output-sels.SchDoc
+DocumentPath=waveform-output.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
