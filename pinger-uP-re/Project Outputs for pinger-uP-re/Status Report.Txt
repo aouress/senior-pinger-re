@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [pinger-uP-re.PrjPcb]
+   Generated File[main.TXT]
+   Generated File[main.LDP]
+   Generated File[main.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:07:50 PM On 10/26/2026
