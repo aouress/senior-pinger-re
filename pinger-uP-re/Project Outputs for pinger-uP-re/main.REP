@@ -391,16 +391,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Assembly
-      File : main_Bottom_Assembly.gbr
-
-    Adding Layer      : Bottom Assembly
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Mechanical 13
       File : main_Mechanical_13.gbr
 

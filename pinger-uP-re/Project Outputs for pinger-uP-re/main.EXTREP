@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: main.GBR   10/26/2026  9:07:28 PM
+Gerber File Extension Report For: main.GBR   10/27/2026  9:04:16 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -19,7 +19,6 @@ Layer Extension     Layer Description
 .gbr                Keep-Out Layer                          
 .gbr                Mechanical 1                            
 .gbr                Top Assembly                            
-.gbr                Bottom Assembly                         
 .gbr                Mechanical 13                           
 .gbr                Mechanical 15                           
 .gbr                Mechanical 20                           
